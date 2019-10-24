@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "252689143557",
+    "firebase_url": "https://fir-functions-5bcef.firebaseio.com",
+    "project_id": "fir-functions-5bcef",
+    "storage_bucket": "fir-functions-5bcef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252689143557:android:4e5540f47d7609b442c96c",
+        "android_client_info": {
+          "package_name": "com.liberty_properties"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252689143557-d62v0smkskqt4k9j5e82i2k11ut5ico4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UHd1EUY7_giRsIcnv9u8RP5eRFjh7-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252689143557-d62v0smkskqt4k9j5e82i2k11ut5ico4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252689143557:android:3ad517540424180842c96c",
+        "android_client_info": {
+          "package_name": "com.rnonesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252689143557-d62v0smkskqt4k9j5e82i2k11ut5ico4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UHd1EUY7_giRsIcnv9u8RP5eRFjh7-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252689143557-d62v0smkskqt4k9j5e82i2k11ut5ico4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
